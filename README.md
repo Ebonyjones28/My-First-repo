@@ -1,2 +1,2 @@
 # My-First-repo
-A test example for learning git hub
+A test example for learning git hub. This shows how to clone a repository on Github
